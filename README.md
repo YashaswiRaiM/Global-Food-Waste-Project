@@ -1,4 +1,4 @@
-# Global-Food-Waste-Project
+# Global-Food-Waste-Analysis-Pipeline
 Global Food Waste Analysis &amp; Forecasting
 
 ## 📊 Project Overview
